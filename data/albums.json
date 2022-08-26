@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "album1"
+    },
+    {
+        "id": 2,
+        "name": "album2"
+    },
+    {
+        "id": 3,
+        "name": "album3"
+    },
+    {
+        "id": 4,
+        "name": "album4"
+    },
+    {
+        "id": 5,
+        "name": "album5"
+    },
+    {
+        "id": 6,
+        "name": "album6"
+    },
+    {
+        "id": 7,
+        "name": "album7"
+    },
+    {
+        "id": 8,
+        "name": "album8"
+    },
+    {
+        "id": 9,
+        "name": "album9"
+    }
+]

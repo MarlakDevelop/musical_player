@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "rock"
+    },
+    {
+        "id": 2,
+        "name": "acoustic"
+    },
+    {
+        "id": 3,
+        "name": "instrumental"
+    }
+]
